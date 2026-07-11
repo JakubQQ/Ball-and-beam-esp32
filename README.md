@@ -24,3 +24,4 @@ Raw data from the ToF sensor suffered from high-frequency noise, which caused th
 
 ---
 *Created as a personal project to bridge university theoretical knowledge with practical, hands-on engineering.*
+<img width="3200" height="1232" alt="Bez tytułu" src="https://github.com/user-attachments/assets/ac141f98-83b3-46d3-a76b-e1d1895595d9" />
